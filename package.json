@@ -2,6 +2,10 @@
     "name": "react-nestjs-car-app",
     "version": "0.1.0",
     "private": true,
+    "engines": {
+        "node": "0.12.x",
+        "npm": "2.5.x"
+    },
     "dependencies": {
         "@brainhubeu/react-carousel": "^2.0.4",
         "@craco/craco": "^6.2.0",
