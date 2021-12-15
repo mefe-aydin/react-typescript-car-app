@@ -3,7 +3,8 @@
     "version": "0.1.0",
     "private": true,
     "engines": {
-        "yarn": "1.x"
+        "yarn": "1.x",
+        "node": "9.5.0"
     },
     "dependencies": {
         "@brainhubeu/react-carousel": "^2.0.4",
